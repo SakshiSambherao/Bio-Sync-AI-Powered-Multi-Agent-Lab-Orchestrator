@@ -38,49 +38,53 @@ Relevant Baseline Retrieval
 Analyst Agent
 
 ## 🧬 Biological Baselines
-Measurement	Normal Range
-❤️ Heart Rate	500–700 bpm
-🌡️ Body Temperature	36.5–38.0 °C
-🫁 Respiratory Rate	80–200 breaths/min
 
-Values outside these ranges are marked as ANOMALY.
+| Measurement | Normal Range |
+|---|---|
+| ❤️ Heart Rate | **500–700 bpm** |
+| 🌡️ Body Temperature | **36.5–38.0 °C** |
+| 🫁 Respiratory Rate | **80–200 breaths/min** |
 
-✨ Features
-🤖 Multi-Agent AI Architecture
-🔎 Retrieval-Augmented Generation (RAG)
-🧠 Large Language Model Integration
-📚 ChromaDB Vector Database
-🔤 HuggingFace Embeddings
-📝 Natural Language Test Case Input
-🚨 Automatic Anomaly Detection
-📄 Automated Report Generation
-☁️ Google Colab Based
+**Values outside these ranges are marked as ANOMALY.**
+
+## ✨ Features
+
+- 🤖 **Multi-Agent AI Architecture**
+- 🔎 **Retrieval-Augmented Generation (RAG)**
+- 🧠 **Large Language Model Integration**
+- 📚 **ChromaDB Vector Database**
+- 🔤 **HuggingFace Embeddings**
+- 📝 **Natural Language Test Case Input**
+- 🚨 **Automatic Anomaly Detection**
+- 📄 **Automated Report Generation**
+- ☁️ **Google Colab Based**
 
 ## 🛠️ Technologies
-Python
-LangChain
-OpenRouter
-ChromaDB
-HuggingFace Sentence Transformers
-IPyWidgets
-Google Colab
+
+- **Python**
+- **LangChain**
+- **OpenRouter**
+- **ChromaDB**
+- **HuggingFace Sentence Transformers**
+- **IPyWidgets**
+- **Google Colab**
 
 ## 🎓 Academic Purpose
 
 This project demonstrates practical applications of:
 
-Artificial Intelligence
-Generative AI
-Multi-Agent Systems
-RAG
-LLMs
-Vector Databases
-Natural Language Processing
+- **Artificial Intelligence**
+- **Generative AI**
+- **Multi-Agent Systems**
+- **RAG**
+- **LLMs**
+- **Vector Databases**
+- **Natural Language Processing**
 
 ## 👩‍💻 Author
 
-Sakshi Sambherao
+**Sakshi Sambherao**
 
 ## 🧬 Bio-Sync
 
-AI-Powered Multi-Agent Laboratory Test Case Analysis & Report Generation
+### **AI-Powered Multi-Agent Laboratory Test Case Analysis & Report Generation**
