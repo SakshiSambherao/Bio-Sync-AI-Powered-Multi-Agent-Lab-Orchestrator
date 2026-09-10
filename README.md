@@ -36,7 +36,7 @@ ChromaDB
 Relevant Baseline Retrieval
        ↓
 Analyst Agent
-
+```
 ## 🧬 Biological Baselines
 
 | Measurement | Normal Range |
